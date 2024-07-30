@@ -1,3 +1,6 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:CrazyColleagues/Api-MyPertamina-BE
+[submodule "services/users"]
+	path = services/users
+	url = git@github.com:CrazyColleagues/UsersService-MyPertamina-BE.git
