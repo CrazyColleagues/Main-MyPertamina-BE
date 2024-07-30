@@ -6,3 +6,7 @@
 	path = services/users
 	url = git@github.com:CrazyColleagues/UsersService-MyPertamina-BE.git
 	branch = dev
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:BinaryNeedle/my-pertamina.git
+	branch = dev-fe
