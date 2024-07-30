@@ -10,3 +10,7 @@
 	path = frontend
 	url = git@github.com:BinaryNeedle/my-pertamina.git
 	branch = dev-fe
+[submodule "services/authentication"]
+	path = services/authentication
+	url = git@github.com:CrazyColleagues/AuthenticationService-MyPertamina-BE
+	branch = dev
