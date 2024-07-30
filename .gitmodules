@@ -14,3 +14,7 @@
 	path = services/authentication
 	url = git@github.com:CrazyColleagues/AuthenticationService-MyPertamina-BE
 	branch = dev
+[submodule "services/authorization"]
+	path = services/authorization
+	url = git@github.com:CrazyColleagues/AuthorizationService-MyPertamina-BE
+	branch = dev
