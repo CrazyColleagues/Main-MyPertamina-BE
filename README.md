@@ -44,16 +44,16 @@ Here you list all prerequisites necessary for running your project. For example:
  
 <h3>Cloning</h3>
 
-How to clone your project
+How to clone the project
 
 HTTPS:
 ```bash
-git clone https://github.com/BinaryNeedle/my-pertamina.git
+git clone https://github.com/CrazyColleagues/Main-MyPertamina-BE.git
 ```
 
 SSH:
 ```bash
-git clone git@github.com:BinaryNeedle/my-pertamina.git
+git clone git@github.com:CrazyColleagues/Main-MyPertamina-BE.git
 ```
  
 <h3>Starting</h3>
