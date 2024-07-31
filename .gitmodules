@@ -22,3 +22,7 @@
 	path = services/api_gateway
 	url = git@github.com:CrazyColleagues/ApiGateway-MyPertamina-BE.git
 	branch = dev
+[submodule "config"]
+	path = config
+	url = git@github.com:CrazyColleagues/Config-MyPertamina-BE.git
+	branch = dev
