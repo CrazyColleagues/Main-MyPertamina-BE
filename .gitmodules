@@ -18,3 +18,7 @@
 	path = services/authorization
 	url = git@github.com:CrazyColleagues/AuthorizationService-MyPertamina-BE
 	branch = dev
+[submodule "services/api_gateway"]
+	path = services/api_gateway
+	url = git@github.com:CrazyColleagues/ApiGateway-MyPertamina-BE.git
+	branch = dev
